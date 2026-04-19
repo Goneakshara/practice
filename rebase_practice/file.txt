@@ -1,2 +1,9 @@
 This is the first commit of the file
 this is the second commit of the file
+this is the second commit of the file
+this is the second commit of the file
+this is the second commit of the file
+this is the second commit of the file
+this is the second commit of the file
+this is the second commit of the file
+This the third commit of the file
